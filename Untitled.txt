@@ -1,1 +1,2 @@
 WORKSHOP for APPLICATION development
+Learning the Git AND GitHub
