@@ -2,3 +2,4 @@ WORKSHOP for APPLICATION development
 Learning the Git AND GitHub
 welcome to the class
 MTECH CSE
+foundation of machine learning
